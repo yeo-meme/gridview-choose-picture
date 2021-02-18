@@ -1,0 +1,2 @@
+rootProject.name='GridViewT'
+include ':app'
